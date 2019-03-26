@@ -1,0 +1,36 @@
+{
+  "name": "events.once",
+  "version": "2.0.2",
+  "description": "Polyfill for Node core `events.once",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "keywords": [
+    "events",
+    "once",
+    "promise",
+    "polyfill",
+    "EventEmitter",
+    "async",
+    "async/await",
+    "await",
+    "node core",
+    "browserify",
+    "webpack"
+  ],
+  "author": "David Mark Clements <david.mark.clements@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tap": "^12.5.3"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmarkclements/events.once.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidmarkclements/events.once/issues"
+  },
+  "homepage": "https://github.com/davidmarkclements/events.once#readme"
+}
